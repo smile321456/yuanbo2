@@ -1,0 +1,11 @@
+{
+  "domainUrl":"",
+  "updateUrl":"http://appdown.fzv3.com/yuanbo2_download/",
+  "branches":[
+    {
+      "code":"1000",
+      "version":"1.0.0",
+      "status":"release"
+    }
+  ]
+}
